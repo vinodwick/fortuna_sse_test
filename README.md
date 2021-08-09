@@ -37,7 +37,7 @@ First name (required), last name (required), Company (foreign key to Companies),
 
 ## Submitting this challenge 
 
-Fork this repo, complete the challenge and share your solutions repo with us.
+Fork this repo, create new branch (include your name in branch name) complete the challenge and share your solutions repo with us.
 
 There’s 5h time this challenge, however it should not take too long to complete.
 
